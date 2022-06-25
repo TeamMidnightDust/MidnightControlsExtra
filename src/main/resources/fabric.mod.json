@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "midnightcontrols-extra",
+  "version": "${version}",
+
+  "name": "MidnightControls Extra",
+  "description": "Unlocks additional features in MidnightControls that might be considered as cheats",
+  "authors": [
+    "Motschen",
+    "TeamMidnightDust"
+  ],
+  "contact": {
+    "homepage": "https://www.midnightdust.eu/",
+    "sources": "https://github.com/TeamMidnightDust/MidnightControls",
+    "issues": "https://github.com/TeamMidnightDust/MidnightControls/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/midnightcontrols-extra/icon.png",
+
+  "environment": "client"
+}
